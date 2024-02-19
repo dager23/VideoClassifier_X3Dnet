@@ -1,0 +1,3 @@
+val_accuracy,val_cross_entropy,epoch,step,train_accuracy_epoch,train_cross_entropy_epoch
+0.4166666567325592,0.7932536005973816,0,40,,
+,,0,40,0.3658536672592163,0.8957662582397461
